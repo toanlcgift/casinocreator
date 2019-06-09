@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "dafc14d0-5f17-4257-9474-b8c74cdff916",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "vuvuzela-c": {
+      "ver": "1.0.3",
+      "uuid": "a3ef13c5-a87e-4e08-9f59-0b1e5bdd5af6",
+      "rawTextureUuid": "dafc14d0-5f17-4257-9474-b8c74cdff916",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -2,
+      "trimX": 8,
+      "trimY": 70,
+      "width": 264,
+      "height": 210,
+      "rawWidth": 280,
+      "rawHeight": 346,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -13,7 +13,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "UserDefault",
+    "_name": "Background",
     "_objFlags": 0,
     "_parent": null,
     "_children": [],
@@ -37,8 +37,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 0,
-      "height": 0
+      "width": 900,
+      "height": 1600
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -74,14 +74,31 @@
     "_id": ""
   },
   {
-    "__type__": "ac85aN0yDZAy5qM8en8FeDQ",
+    "__type__": "cc.Sprite",
     "_name": "",
     "_objFlags": 0,
     "node": {
       "__id__": 1
     },
     "_enabled": true,
-    "localStorage": null,
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
+    "_spriteFrame": {
+      "__uuid__": "a23235d1-15db-4b95-8439-a2e005bfff91"
+    },
+    "_type": 0,
+    "_sizeMode": 0,
+    "_fillType": 0,
+    "_fillCenter": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0
+    },
+    "_fillStart": 0,
+    "_fillRange": 0,
+    "_isTrimmedMode": true,
+    "_state": 0,
+    "_atlas": null,
     "_id": ""
   },
   {
@@ -90,9 +107,9 @@
       "__id__": 1
     },
     "asset": {
-      "__uuid__": "1db506fb-2cf9-4aea-9fc1-41c03b72af2b"
+      "__uuid__": "196da6ea-2335-4410-9ab1-9ca65c14ab14"
     },
-    "fileId": "87243rXGkhOToyx3Yr8Bn3q",
+    "fileId": "e7JvOvhExH1qznRFs98zzZ",
     "sync": false
   }
 ]

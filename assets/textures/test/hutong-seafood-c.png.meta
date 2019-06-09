@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "0c1944c3-5572-43b1-bcf8-d9f5e42f50fd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "hutong-seafood-c": {
+      "ver": "1.0.3",
+      "uuid": "dd859ae0-9957-4795-b582-cb4bf7c2a5bc",
+      "rawTextureUuid": "0c1944c3-5572-43b1-bcf8-d9f5e42f50fd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -9,
+      "trimX": 7,
+      "trimY": 93,
+      "width": 463,
+      "height": 178,
+      "rawWidth": 476,
+      "rawHeight": 346,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
