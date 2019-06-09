@@ -114,8 +114,6 @@ cc.Class({
         
         for (var i=0;i<this.stops.length;i++){
             var stop = cc.instantiate(this.stops[i]);
-            //stop.scaleX = 300/stop.width;
-            //stop.scaleY= 300/stop.height;
             this.node.addChild(stop);
             stop.setPosition(cc.p(startX, startY));
             startY= startY -this.padding-this.stopHeight;
